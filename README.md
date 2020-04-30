@@ -37,7 +37,7 @@ Six worksheets in total:
 
 ## harmonisedeQTLdata_otherstudiescomparison.tar
 
-Tar archive containing rds files (harmonised SNP effects) for the AMPAD-CMC instrument comparison against other eQTL datasets performed in publication.  Readme file describing the files is available within archive.  Can be untared using:
+Tar archive containing rds files (harmonised SNP effects) for the AMPAD-CMC instrument comparison against other eQTL datasets performed in publication.  Readme file describing the files is available within archive.  
 
 ## locusregionalplots.pdf
 
