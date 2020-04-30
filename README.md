@@ -3,6 +3,22 @@ This repo contains the full datasets (i.e. raw results before filtering for anal
 
 Inventory of files:
 
+## fullWRdata.xlsx
+
+Six worksheets in total:
+
+*instruments* - AMPAD-CMC brain eQTL instruments used in the primary MR analysis.
+
+*WR.results* - Wald Ratio results for the braineQTL versus primary outcome analysis.
+
+*harmonised.results* - harmonised eQTL and primary outcome SNP effects used in MR analysis.
+
+*ENSGtogenemap* - Map used to get from Ensembl gene ID to gene name.
+
+*harmonised.results.table* - Excel pivot table showing the number of harmonised SNPs per primary outcome.
+
+*WR.results.table* - Excel pivot table showing the number of Wald Ratio effects avaiable per primary outcome.
+
 ## fullresultstables.xlsx
 
 Six worksheets in total:
@@ -19,21 +35,6 @@ Six worksheets in total:
 
 *table 6* - Wald Ratio results for the reverse MR conducted in eQTLGen.
 
-## fullWRdata.xlsx
-
-Six worksheets in total:
-
-*instruments* - AMPAD-CMC brain eQTL instruments used in the primary MR analysis.
-
-*WR.results* - Wald Ratio results for the braineQTL versus primary outcome analysis.
-
-*harmonised.results* - harmonised eQTL and primary outcome SNP effects used in MR analysis.
-
-*ENSGtogenemap* - Map used to get from Ensembl gene ID to gene name.
-
-*harmonised.results.table* - Excel pivot table showing the number of harmonised SNPs per primary outcome.
-
-*WR.results.table* - Excel pivot table showing the number of Wald Ratio effects avaiable per primary outcome.
 
 ## harmonisedeQTLdata_otherstudiescomparison.tar
 
