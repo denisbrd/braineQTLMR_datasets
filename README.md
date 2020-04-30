@@ -44,6 +44,11 @@ Tar archive containing rds files (harmonised SNP effects) for the AMPAD-CMC inst
 
 Regional association plots showing the LD between Wald Ratio effects for different genes in genomic regions where multiple genes were identified in the MR.
 
+##DOI badge
+
+version 1 (created 30th April 2020)
+
+[![DOI](https://zenodo.org/badge/198644420.svg)](https://zenodo.org/badge/latestdoi/198644420)
 
 
 
