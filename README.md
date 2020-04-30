@@ -1,5 +1,7 @@
 # braineQTLMR_datasets
-Full datasets (i.e. raw results before filtering for analysis) used in the cross neuro braineQTL MR publication
+This repo contains the full datasets (i.e. raw results before filtering for analysis) used in the cross neuro braineQTL MR publication.  
+
+Inventory of files:
 
 ## fullresultstables.xlsx
 
