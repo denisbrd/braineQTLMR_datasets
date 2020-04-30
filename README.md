@@ -13,7 +13,7 @@ Six worksheets in total:
 
 *table 3* - Phenome-wide Wald Ratio results for selected instruments (priortised genes).
 
-*table 4* - Different gene expression effects (eQTL) measured in AMPAD-CMC which were available for the selected instruments.
+*table 4* - Different gene expression effects (eQTL) in AMPAD-CMC which for the selected instruments.
 
 *table 5* - Gene expression effects (eQTL) in different brain tissues(GTEx v7) for the selected instruments.
 
@@ -27,16 +27,21 @@ Six worksheets in total:
 
 *WR.results* - Wald Ratio results for the braineQTL versus primary outcome analysis.
 
-*harmonised.results* - eQTL and primary outcome SNP effects merged for MR analysis.
+*harmonised.results* - harmonised eQTL and primary outcome SNP effects used in MR analysis.
 
 *ENSGtogenemap* - Map used to get from Ensembl gene ID to gene name.
 
 *harmonised.results.table* - Excel pivot table showing the number of harmonised SNPs per primary outcome.
 
-*WR.results.table* - Excel pivot table showing the number of Wald Ratio effects avaialbe per primary outcome.
+*WR.results.table* - Excel pivot table showing the number of Wald Ratio effects avaiable per primary outcome.
 
+## harmonisedeQTLdata_otherstudiescomparison.tar
 
+Tar archive containing rds files (harmonised SNP effects) for the AMPAD-CMC instrument comparison against other eQTL datasets performed in publication.  Readme file describing the files is available within archive.  Can be untared using:
 
+## locusregionalplots.pdf
+
+Regional association plots showing the LD between Wald Ratio effects for different genes in genomic regions where multiple genes were identified in the MR.
 
 
 
