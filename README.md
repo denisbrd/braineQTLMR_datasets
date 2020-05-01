@@ -38,13 +38,13 @@ Six worksheets in total:
 
 ## harmonisedeQTLdata_otherstudiescomparison.tar
 
-Tar archive containing rds files (harmonised SNP effects) for the AMPAD-CMC instrument comparison against other eQTL datasets performed in publication.  Readme file describing the files is available within archive.  
+Tar archive containing rds files (harmonised SNP effects) for the AMP-CMC instrument comparison against other eQTL datasets performed in publication.  Readme file describing the files is available within archive.  
 
 ## locusregionalplots.pdf
 
 Regional association plots showing the LD between Wald Ratio effects for different genes in genomic regions where multiple genes were identified in the MR.
 
-##DOI badge
+## DOI badge
 
 version 1.01 (created 30th April 2020)
 
