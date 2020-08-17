@@ -29,7 +29,7 @@ Six worksheets in total:
 
 *table 3* - Phenome-wide Wald Ratio results for selected instruments (priortised genes).
 
-*table 4* - Different gene expression effects (eQTL) in AMPAD-CMC which for the selected instruments.
+*table 4* - Different gene expression effects (eQTL) in AMPAD-CMC for our selected instruments.
 
 *table 5* - Gene expression effects (eQTL) in different brain tissues(GTEx v7) for the selected instruments.
 
@@ -43,6 +43,16 @@ Tar archive containing rds files (harmonised SNP effects) for the AMP-CMC instru
 ## locusregionalplots.pdf
 
 Regional association plots showing the LD between Wald Ratio effects for different genes in genomic regions where multiple genes were identified in the MR.
+
+## Miami plots for the top MR findings.
+
+Sz.plot.miami.pdf - Miami plot showing the MR relationships between gene expression changes and schizophrenia risk.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to beta) is on the y-axis.  
+
+pysch.plot.miami.pdf - Miami plot showing the MR relationships between gene expression changes and the other pyschiatric traits (anorexia, bipolar disorder, major depressive disorder).  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
+
+neuro.plot1.miami.pdf - Miami plot showing the MR relationships between gene expression changes and Alzheimer's disease and Parkinson's disease neurological outcomes.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
+
+nuero.plot1.miami.pdf - Miami plot showing the MR relationships between gene expression changes and amyotrophic lateral sclerosis and multiple sclerosis neurological outcomes.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
 
 ## DOI badge
 
