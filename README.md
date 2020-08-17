@@ -46,13 +46,13 @@ Regional association plots showing the LD between Wald Ratio effects for differe
 
 ## Miami plots for the top MR findings.
 
-Sz.plot.miami.pdf - Miami plot showing the MR relationships between gene expression changes and schizophrenia risk.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to beta) is on the y-axis.  
+*Sz.plot.miami.pdf* - Miami plot showing the MR relationships between gene expression changes and schizophrenia risk.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to beta) is on the y-axis.  
 
-pysch.plot.miami.pdf - Miami plot showing the MR relationships between gene expression changes and the other pyschiatric traits (anorexia, bipolar disorder, major depressive disorder).  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
+*pysch.plot.miami.pdf* - Miami plot showing the MR relationships between gene expression changes and the other pyschiatric traits (anorexia, bipolar disorder, major depressive disorder).  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
 
-neuro.plot1.miami.pdf - Miami plot showing the MR relationships between gene expression changes and Alzheimer's disease and Parkinson's disease neurological outcomes.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
+*neuro.plot1.miami.pdf* - Miami plot showing the MR relationships between gene expression changes and Alzheimer's disease and Parkinson's disease neurological outcomes.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
 
-nuero.plot1.miami.pdf - Miami plot showing the MR relationships between gene expression changes and amyotrophic lateral sclerosis and multiple sclerosis neurological outcomes.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
+*neuro.plot1.miami.pdf* - Miami plot showing the MR relationships between gene expression changes and amyotrophic lateral sclerosis and multiple sclerosis neurological outcomes.  Chromosomal position is on the x-axis and p-value for the Wald ratio estimate (log10 scaled, directed according to MR effect) is on the y-axis.  
 
 ## DOI badge
 
