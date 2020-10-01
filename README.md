@@ -33,7 +33,9 @@ Six worksheets in total:
 
 *table 5* - Gene expression effects (eQTL) in different brain tissues(GTEx v7) for the selected instruments.
 
-*table 6* - Wald Ratio results for the reverse MR conducted in eQTLGen.
+*table 6* - MR results (Wald Ratios) for the eQTLGen instrumented analysis.
+
+*table 7* - Wald Ratio results for the reverse MR conducted in eQTLGen.
 
 
 ## harmonisedeQTLdata_otherstudiescomparison.tar
